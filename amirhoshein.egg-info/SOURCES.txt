@@ -1,0 +1,17 @@
+setup.py
+amirhoshein/__init__.py
+amirhoshein/adad.py
+amirhoshein/bomber.py
+amirhoshein/chistan.py
+amirhoshein/danestani.py
+amirhoshein/dastan.py
+amirhoshein/font.py
+amirhoshein/hadis.py
+amirhoshein/jok.py
+amirhoshein/joojoo.py
+amirhoshein/khatere.py
+amirhoshein.egg-info/PKG-INFO
+amirhoshein.egg-info/SOURCES.txt
+amirhoshein.egg-info/dependency_links.txt
+amirhoshein.egg-info/requires.txt
+amirhoshein.egg-info/top_level.txt
